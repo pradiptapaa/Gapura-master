@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gapura</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="uname">Uname</string>
+    <string name="login">Login</string>
+    <string name="scan">Scan</string>
+    <string name="nama_anda">Nama_Anda</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="wni">WNI</string>
+    <string name="wna">WNA</string>
+    <string name="kode_kartu_atau_scan">Kode Kartu atau Scan</string>
+    <string name="nomor_hp">Nomor Hp</string>
+    <string name="daftar_tamu">Daftar Tamu</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="tambah_tamu_baru">Tambah Tamu Baru</string>
+    <string name="instansi_perusahaan_anda">Instansi/Perusahaan Anda</string>
+</resources>
